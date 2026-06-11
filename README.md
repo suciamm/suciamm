@@ -1,4 +1,5 @@
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+World+call+me+suci)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
 👋 Hi, I'm Suci — a Backend Developer who loves clean architecture<br>🦫 Go enthusiast | REST API · Gin · MySQL · Goroutines<br>🏗️ I build cooperative & fintech systems that handle real transactions<br>⚡ Fun fact: I also write SEO content when I'm not coding<br>📬 Open to full-time roles & freelance projects
