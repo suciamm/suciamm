@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hey+World!+I'm+Suci+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Go+%2B+Coffee+%2B+Clean+Code+%E2%98%95)](https://git.io/typing-svg)
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hey+World!+I'm+Suci+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Go+%2B+Coffee+%2B+Clean+Code+%E2%98%95)](https://git.io/typing-svg)
 
 # 💫 About Me
 
