@@ -1,13 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Suci;Backend+Developer;Go+%7C+REST+API+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=480&lines=Hey%2C+World.+Just+call+me+Suci+%F0%9F%91%8B;Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
 ### About
 
-Backend Developer focused on clean architecture and reliable systems.
-Building cooperative & fintech platforms that process real transactions using Go, Gin, and MySQL.
+Backend Developer who enjoys clean architecture and building systems that handle real transactions.
+Works mainly with Go — designing REST APIs with Gin, securing endpoints with JWT authentication, and using goroutines & channels to keep concurrent processes efficient and non-blocking.
+Has built a cooperative platform with SHU (profit-sharing) calculation logic, as well as a PPOB digital wallet app with sharing-fee handling.
 Also writes SEO content on the side. Open to full-time roles & freelance projects.
 
 **Portfolio:** [suci-portfolio.vercel.app](https://suci-portfolio.vercel.app/)
