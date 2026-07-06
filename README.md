@@ -1,28 +1,53 @@
-<img align="right" src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lmMjF1ZG93enlxZ3E1eDhlNWxudXo5amdjN2Zic2w5anFzZjc4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QX81mZCxbGlqFtxqYn/giphy.gif)" width="150"/>[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hey+World!+I'm+Suci+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Go+%2B+Coffee+%2B+Clean+Code+%E2%98%95)](https://git.io/typing-svg)
+<div align="center">
 
-# 💫 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Suci;Backend+Developer;Go+%7C+REST+API+%7C+MySQL)](https://git.io/typing-svg)
 
-🎯 Backend Developer who loves clean architecture & solving real problems
-🦫 Go enthusiast — REST API · Gin · MySQL · Goroutines
-🏗️ I build cooperative & fintech systems that handle real transactions
-✍️ Fun fact: I also write SEO content when I'm not coding
-🚀 Open to full-time roles & freelance projects
-🔗 Check out my work → [suci-portfolio.vercel.app](https://suci-portfolio.vercel.app/)
+</div>
 
-## 🌐 Find Me Here
+### About
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://suci-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suci-amanah-52a917285)
-[![Email](https://img.shields.io/badge/Email-FFD93D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:freecii130@gmail.com)
+Backend Developer focused on clean architecture and reliable systems.
+Building cooperative & fintech platforms that process real transactions using Go, Gin, and MySQL.
+Also writes SEO content on the side. Open to full-time roles & freelance projects.
 
-## 💻 Tech Stack
+**Portfolio:** [suci-portfolio.vercel.app](https://suci-portfolio.vercel.app/)
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
 
-## 📊 GitHub Stats
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=D4AF37)](https://suci-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/suci-amanah-52a917285)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:freecii130@gmail.com)
 
-![](https://github-readme-stats.shion.dev/api?username=suciamm&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=suciamm&theme=radical&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suciamm&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tech Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=D4AF37)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=D4AF37)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=D4AF37)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=D4AF37)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D4AF37)
+
+</div>
+
+### GitHub Stats
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=suciamm&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" width="410"/>
+</td>
+<td>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=suciamm&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF" width="290"/>
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=suciamm&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="710"/>
+</div>
