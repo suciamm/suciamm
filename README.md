@@ -28,6 +28,8 @@ Also writes SEO content on the side. Open to full-time roles & freelance project
 ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=D4AF37)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=D4AF37)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=D4AF37)
+![C#](https://img.shields.io/badge/C%20Sharp-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js&logoColor=D4AF37)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=D4AF37)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=D4AF37)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=D4AF37)
