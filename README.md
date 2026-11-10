@@ -8,8 +8,8 @@
 
 Backend Developer who enjoys clean architecture and building systems that handle real transactions.
 Works mainly with Go — designing REST APIs with Gin, securing endpoints with JWT authentication, and using goroutines & channels to keep concurrent processes efficient and non-blocking.
-Has built a cooperative platform with SHU (profit-sharing) calculation logic, as well as a PPOB digital wallet app with sharing-fee handling.
-Also writes SEO content on the side. Open to full-time roles & freelance projects.
+
+Also experienced in Java, with a solid backend foundation across relational databases (MySQL, PostgreSQL) and Redis for high-performance caching. Proficient in microservices architecture, gRPC, and containerization with Docker. Beyond backend engineering, I analyze and develop business project systems, sometimes build organic SEO-friendly web apps using vanilla HTML & JavaScript, and collaborate seamlessly using Git/GitHub workflow. I open to freelance projects.
 
 **Portfolio:** [suci-portfolio.vercel.app](https://suci-portfolio.vercel.app/)
 
