@@ -26,11 +26,16 @@ Also experienced in Java, with a solid backend foundation across relational data
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=D4AF37)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=D4AF37)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=D4AF37)
 ![C#](https://img.shields.io/badge/C%20Sharp-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js&logoColor=D4AF37)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=D4AF37)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=D4AF37)
+![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=D4AF37)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=D4AF37)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=D4AF37)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=D4AF37)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=D4AF37)
